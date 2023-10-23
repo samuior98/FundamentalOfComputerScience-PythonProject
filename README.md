@@ -1,4 +1,4 @@
-# Fundamentals Of Computer Science - Python Project
+Portion of an image in black and white
 
 ---IT---
 
